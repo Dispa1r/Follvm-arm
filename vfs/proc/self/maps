@@ -1,0 +1,20 @@
+0x00000000-0x00001000 rw-p 00000000 00:00 0 		 
+0x01000000-0x01201000 rwxp 00000000 00:00 0 		 
+0x10000000-0x10101000 rw-p 00000000 00:00 0 		 
+0x30000000-0x30001000 r--p 00000000 00:00 0 		 
+0x30001000-0x30004000 rw-p 00000000 00:00 0 		 
+0xab006000-0xab00c000 rw-p 00000000 00:00 0 		 /system/bin/app_process32
+0xcbbcb000-0xcbca9000 r-xp 00000000 00:00 0 		 /..\tests\bin\libcms.so
+0xcbca9000-0xcbcb4000 rw-p 000dd000 00:00 0 		 /..\tests\bin\libcms.so
+0xcbcb4000-0xcbcbb000 rw-p 00000000 00:00 0 		 
+0xcbcbb000-0xcbd02000 r-xp 00000000 00:00 0 		 /system\lib\libc.so
+0xcbd02000-0xcbd03000 r-xp 00000000 00:00 0 		 
+0xcbd03000-0xcbd08000 rw-p 00047000 00:00 0 		 /system\lib\libc.so
+0xcbd08000-0xcbd16000 rw-p 00000000 00:00 0 		 
+0xcbd16000-0xcbd18000 r-xp 00000000 00:00 0 		 /system\lib\libdl.so
+0xcbd18000-0xcbd1a000 rw-p 00001000 00:00 0 		 /system\lib\libdl.so
+0xcbd1a000-0xcbd32000 r-xp 00000000 00:00 0 		 /system\lib\libm.so
+0xcbd32000-0xcbd34000 rw-p 00017000 00:00 0 		 /system\lib\libm.so
+0xcbd34000-0xcbd35000 r-xp 00000000 00:00 0 		 /system\lib\libstdc++.so
+0xcbd35000-0xcbd37000 rw-p 00000000 00:00 0 		 /system\lib\libstdc++.so
+0xcbd37000-0xcbd38000 rw-p 00000000 00:00 0 		 

@@ -1,0 +1,2 @@
+arm -deobf中native emu是模拟执行模块，用来trace指令数据，deobf是去混淆模块，负责解析二进制文件并进行patch
+用QT绘制了简易UI，可以直接运行start.py后进行使用。
